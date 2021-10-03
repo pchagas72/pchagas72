@@ -6,7 +6,8 @@
 <p>- 🔭 Atualmente estou trabalhando com robótica e machine learning !</p>
 <p>- 🌱 Estou aprendendo C++ e Linux </p>
 <p>- 💬 Minhas DM's estão abertas para qualquer dúvida sobre: Python, C#, GMS2, Arduínos e Machine Learning </p>
-<p>- 📫 Contato: pedrochagas.pr@gmail.com </p>
+<p>- 📫 Contato Profissional: pedrochagas.pr@gmail.com </p>
+<p>- 🐻 Contato Pessoal: @pedro_chagas__ ( instagram (^: ) </p>
 </div>
   <h1></h1>
 <div align="center">
