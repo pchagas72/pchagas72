@@ -8,12 +8,13 @@
 <p>- 💬 Minhas DM's estão abertas para qualquer dúvida sobre: Python, C#, GMS2, Arduínos e Machine Learning </p>
 <p>- 📫 Contato: pedrochagas.pr@gmail.com </p>
 </div>
-  ##
-<div align="center">
+  <h1></h1>
+<div align="left">
   <a href="https://github.com/pChagas-cloud">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pChagas-cloud&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pChagas-cloud&layout=compact&langs_count=7&theme=nord"/>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
