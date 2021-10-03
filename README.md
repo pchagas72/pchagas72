@@ -7,7 +7,7 @@
 <p>- 🌱 Estou aprendendo C++ e Linux </p>
 <p>- 💬 Minhas DM's estão abertas para qualquer dúvida sobre: Python, C#, GMS2, Arduínos e Machine Learning </p>
 <p>- 📫 Contato Profissional: pedrochagas.pr@gmail.com </p>
-<p>- 🐻 Contato Pessoal: @pedro_chagas__ ( instagram (^: ) </p>
+<p>- 🐻 Contato Pessoal: @pedro_chagas__ (instagram) </p>
 </div>
   <h1></h1>
 <div align="center">
@@ -24,3 +24,4 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="right" alt="Angus-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/ca07467c2d315cd905a57310c4475a6a/tumblr_oo44reKi6F1v57y0co1_250.png">
 </div>
+  <h1></h1>
