@@ -1,16 +1,14 @@
-### Hi there 👋
+<b>Bem vindo ao meu perfil ! 😊</b>
 
-<!--
-**pChagas-cloud/pChagas-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class='perso_info'>
+<p>- 🔭 Atualmente estou trabalhando com robótica e machine learning !</p>
+<p>- 🌱 Estou aprendendo C++ e Linux </p>
+<p>- 💬 Minhas DM's estão abertas para qualquer dúvida sobre: Python, C#, GMS2, Arduínos e Machine Learning </p>
+<p>- 📫 Contato: pedrochagas.pr@gmail.com </p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/pChagas-cloud">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pChagas-cloud&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pChagas-cloud&layout=compact&langs_count=7&theme=dra"/>
+</div>
