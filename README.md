@@ -1,11 +1,11 @@
 <div class='greetings' align='center'>
-  <h1><b>Bem vindo ao meu perfil ! 😊</b></h1>
+  <h1><b>Bem vindo ao meu perfil</b></h1>
 </div>
 <br>
 <div class='perso_info'>
-<p>- 🔭 Atualmente estou trabalhando com robótica e machine learning !</p>
-<p>- 🌱 Estou aprendendo C++ e Linux </p>
-<p>- 💬 Minhas DM's estão abertas para qualquer dúvida sobre: Python, C++, Arduíno e Machine Learning </p>
+<p>- 🔭 Atualmente estou trabalhando com: robótica (arduíno), machine learning e cyber security</p>
+<p>- 🌱 Estou aprendendo C++ e Kali Linux </p>
+<p>- 💬 Minhas DM's estão abertas para qualquer dúvida sobre: Python, C++, Arduíno e Linux </p>
 <p>- 📫 Contato Profissional: pedrochagas.pr@gmail.com </p>
 <p>- 🐻 Contato Pessoal: @pedro_chagas__ (instagram) </p>
 </div>
