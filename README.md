@@ -1,5 +1,5 @@
 <div class='greetings' align='center'>
-  <h1><b>Bem vindo ao meu perfil</b></h1>
+  <h1><b>Bem vindo ao meu perfil!</b></h1>
 </div>
 <br>
 <div class='perso_info'>
