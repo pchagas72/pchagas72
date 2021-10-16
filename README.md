@@ -1,12 +1,17 @@
 <div class='greetings' align='center'>
-  <h1><b>Welcome to my profile (:</b></h1>
+  <h1><b>Welcome to my profile !</b></h1>
 </div>
+<p class='whoami' font-size=50> <b>Whoami?</b> </p>
+<p> Hey, my name is Pedro and I am just a brazilian high-school student who really loves programming, robotics and cybersecurity (: </p>
+<h1></h1>
+
 <br>
 <div class='perso_info'>
-<p>- 🔭 Currently working with:: Robotics (arduino), machine learning, python and cyber security</p>
-<p>- 🌱 I am learning C++, Kali Linux and fl-studio </p>
-<p>- 🐻 Contact me on instagram: @pedro_chagas__ (instagram) </p>
-</div>
+  <div class='info'>
+    <p>- 🔭 Currently working with:: Robotics (arduino), python, C# and cyber security</p>
+    <p>- 🌱 I am learning: C++, Kali Linux, fl-studio, machine learning and data-science </p>
+    <p>- 🐻 Contact me on instagram: @pedro_chagas__</p>
+  </div>
   <h1></h1>
 <div align="center">
   <a href="https://github.com/pChagas-cloud">
