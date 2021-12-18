@@ -9,7 +9,7 @@
 <div class='perso_info'>
   <div class='info'>
     <p>- 🔭 Currently working with: Robotics (arduino), python, C++, linux and cyber security</p>
-    <p>- 🌱 I am learning: C, NetWorking, fl-studio, machine learning and data-science </p>
+    <p>- 🌱 I am learning: C, NetWorking, machine learning and data-science </p>
     <p>- 🐻 Contact me on instagram: @pedro_chagas__</p>
     <p align='left'> Btw, i use gentoo </p>
   </div>
