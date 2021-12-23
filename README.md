@@ -11,7 +11,7 @@
     <p>- 🔭 Currently working with: Robotics (arduino), python, C++, linux and cyber security</p>
     <p>- 🌱 I am learning: C, NetWorking, machine learning and data-science </p>
     <p>- 🐻 Contact me on instagram: @pedro_chagas__</p>
-    <p align='left'> Btw, i use gentoo </p>
+    <p align='left'> I use gentoo btw </p>
   </div>
     <div align='center'>
   <h1></h1>
