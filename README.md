@@ -8,10 +8,10 @@
 <br>
 <div class='perso_info'>
   <div class='info'>
-    <p>- 🔭 Currently working with: Robotics (arduino), python, C++, linux and cyber security</p>
-    <p>- 🌱 I am learning: C, Rust, Go, NetWorking, machine learning and data-science </p>
+    <p>- 🔭 Currently working with: Robotics (arduino), python, C++, C, Rust, linux and cyber security</p>
+    <p>- 🌱 I am learning: Go, NetWorking, machine learning and data-science </p>
     <p>- 🐻 Contact me on instagram: @pedro_chagas__</p>
-    <p align='left'> I use gentoo btw </p>
+    <p align='left'> Btwm I use Linux and DWM, you can find my dotfiles here somewhere if thats why you're here ! </p>
   </div>
     <div align='center'>
   <h1></h1>
