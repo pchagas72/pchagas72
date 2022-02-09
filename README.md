@@ -11,7 +11,7 @@
     <p>- 🔭 Currently working with: Robotics (arduino), python, C++, C, Rust, linux and cyber security</p>
     <p>- 🌱 I am learning: Go, NetWorking, machine learning and data-science </p>
     <p>- 🐻 Contact me on instagram: @pedro_chagas__</p>
-    <p align='left'> Btwm I use Linux and DWM, you can find my dotfiles here somewhere if thats why you're here ! </p>
+    <p align='left'> I use arch btw </p>
   </div>
     <div align='center'>
   <h1></h1>
