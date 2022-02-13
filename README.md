@@ -11,7 +11,30 @@
     <p>- 🔭 Currently working with: Robotics (arduino), python, C++, C, Rust, linux and cyber security</p>
     <p>- 🌱 I am learning: Go, NetWorking, machine learning and data-science </p>
     <p>- 🐻 Contact me on instagram: @pedro_chagas__</p>
-    <p align='left'> I use arch btw </p>
+    
+    <!-- I use arch btw 
+                   -`                    
+                  .o+`                   
+                 `ooo/                    
+                `+oooo:                  
+               `+oooooo:                 
+               -+oooooo+:                
+             `/:-:++oooo+:               
+            `/++++/+++++++:             
+           `/++++++++++++++:             
+          `/+++ooooooooooooo/`           
+         ./ooosssso++osssssso+`          
+        .oossssso-````/ossssss+`         
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.                               
+     /ossssssss/        +ssssooo/-                               
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+
+-->
+    
   </div>
     <div align='center'>
   <h1></h1>
