@@ -12,28 +12,7 @@
     <p>- 🌱 I am learning: Go, NetWorking, machine learning and data-science </p>
     <p>- 🐻 Contact me on instagram: @pedro_chagas__</p>
     
-    <!-- I use arch btw 
-                   -`                    
-                  .o+`                   
-                 `ooo/                    
-                `+oooo:                  
-               `+oooooo:                 
-               -+oooooo+:                
-             `/:-:++oooo+:               
-            `/++++/+++++++:             
-           `/++++++++++++++:             
-          `/+++ooooooooooooo/`           
-         ./ooosssso++osssssso+`          
-        .oossssso-````/ossssss+`         
-       -osssssso.      :ssssssso.
-      :osssssss/        osssso+++.                               
-     /ossssssss/        +ssssooo/-                               
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
-
--->
+I use arch btw
     
   </div>
     <div align='center'>
