@@ -14,7 +14,7 @@
     <h1></h1>
     <p>- 🔭 Software I use:</p>
     <ul>
-      <li> OS: Arch Linux and OpenSUSE tumbleweed </li>
+      <li> OS: Artix Linux and OpenSUSE tumbleweed </li>
       <li> IDE/text-editor: Vim, Emacs and for web dev: VScode </li>
       <li> Browser: qutebrowser and brave-browser </li>
     </ul>
