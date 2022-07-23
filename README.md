@@ -24,7 +24,6 @@
       <li> Python </li>
       <li> Rust </li>
       <li> Bash </li>
-      <li> Python </li>
       <li> C++ </li>
       <li> html/css/js </li>
      </ul>
