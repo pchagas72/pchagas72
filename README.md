@@ -1,6 +1,6 @@
 <div class='greetings' align='center'>
   <h1><b>Hello dear visitor, welcome to my profile</b></h1>
-  <p> Here is my website: <a href="chaguw.neocities.org"> chaguw.neocities.org </a> </p>
+  <p> Here is my website: <a href="https://chaguw.neocities.org/"> chaguw.neocities.org </a> </p>
 </div>
 <p class='whoami' font-size=50> <b>Whoami?</b> </p>
 <p>My name is Pedro, and I'm a brazilian who really loves computer science, old thinkpads, FOSS software, that type of internet stuff. Oh, and I also love coding!</p>
