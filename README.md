@@ -1,7 +1,7 @@
 ### Hello! Welcome to my github profile :wave:
 
 #### Whoami?
-- I'm from Brazil 🇧🇷
+- 16 years old CS lover from Brazil 🇧🇷
 - Linux enjoyer 🐧
 - FOSS <3
 - Speak: english, portuguese and learning french! 🌎
