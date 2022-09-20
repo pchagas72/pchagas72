@@ -2,11 +2,10 @@
 
 #### Whoami?
 - 16 years old CS lover from Brazil 🇧🇷
-- Linux enjoyer 🐧
+- Linux enjoyer 🐧 (btw I use Gentoo)
 - FOSS <3
 - Speak: english, portuguese and learning french! 🌎
 - Just created a <a href='https://chaguw.neocities.org/'>website</a>! 
-- Full time gentoo user
 
 <br>
 
@@ -34,6 +33,6 @@
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Others:
-![artix](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)
 ![gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![artix](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)
 ![tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
