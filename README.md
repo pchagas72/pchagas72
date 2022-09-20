@@ -6,6 +6,7 @@
 - FOSS <3
 - Speak: english, portuguese and learning french! 🌎
 - Just created a <a href='https://chaguw.neocities.org/'>website</a>! 
+- Full time gentoo user
 
 <br>
 
