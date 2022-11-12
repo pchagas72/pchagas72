@@ -4,7 +4,7 @@
 - 17 years old CS student from Brazil
 - Linux enjoyer 🐧 (btw I use Gentoo)
 - Languages: English, portuguese and spanglish
-- trying to create a <a href='https://chaguw.neocities.org/'>website</a>
+- Trying to create a <a href='https://chaguw.neocities.org/'>website</a>
 - Learning: French, bloated-app-development (kotlin)
 
 <br>
