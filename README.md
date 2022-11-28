@@ -5,7 +5,7 @@
 - Linux enjoyer 🐧 (btw I use Gentoo)
 - Languages: English, portuguese and spanglish
 - Trying to create a <a href='https://chaguw.neocities.org/'>website</a>
-- Learning: French, bloated-app-development (kotlin)
+- Learning: French, Quantum Computing
 
 <br>
 
@@ -18,6 +18,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-55AFFA?style=for-the-badge&logo=go&logoColor=white)
+![KT](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=purplegradient)
 
 ## Software I use:
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -29,7 +30,7 @@
 ![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## Learning:
-![KT](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=purplegradient)
+![qiskit](https://img.shields.io/badge/Qiskit-6100c2?style=for-the-badge&logo=qiskit&logoColor=white)
 
 ## OS I like:
 ![gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
