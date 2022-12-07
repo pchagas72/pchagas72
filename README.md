@@ -1,11 +1,11 @@
 ### Welcome to my github profile
 
 #### Whoami?
-- 17 years old CS student from Brazil
-- Linux enjoyer 🐧 (btw I use Gentoo)
-- Languages: English, portuguese and spanglish
-- Trying to create a <a href='https://chaguw.neocities.org/'>website</a>
-- Learning: French, Quantum Computing
+- 17 years old CS student from Brazil.
+- Linux lover and gentoo user.
+- Languages: English, portuguese and spanglish.
+- Trying to create a <a href='https://chaguw.neocities.org/'>website.</a>
+- Learning: French, Quantum Computing.
 
 <br>
 
@@ -17,8 +17,13 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+
+## Other languages I like
 ![Go](https://img.shields.io/badge/Go-55AFFA?style=for-the-badge&logo=go&logoColor=white)
 ![KT](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=purplegradient)
+![Pytorch](https://img.shields.io/badge/Pytorch-9900ff?style=for-the-badge&logo=pytorch&logoColor=ff6600)
+![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 ## Software I use:
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -26,8 +31,6 @@
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## Learning:
 ![qiskit](https://img.shields.io/badge/Qiskit-6100c2?style=for-the-badge&logo=qiskit&logoColor=white)
