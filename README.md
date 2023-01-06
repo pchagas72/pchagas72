@@ -19,7 +19,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
-## Other languages I like
+## Other tools I like
 ![Go](https://img.shields.io/badge/Go-55AFFA?style=for-the-badge&logo=go&logoColor=white)
 ![KT](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=purplegradient)
 ![Pytorch](https://img.shields.io/badge/Pytorch-9900ff?style=for-the-badge&logo=pytorch&logoColor=ff6600)
