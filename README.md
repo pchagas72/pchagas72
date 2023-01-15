@@ -37,5 +37,5 @@
 
 ## OS I like:
 ![gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
-![openbsd](https://img.shields.io/badge/OpenBSD-000000?style=for-the-badge&logo=openbsd&logoColor=FFBF00)
+![arch](https://img.shields.io/badge/Arch-064d87?style=for-the-badge&logo=archlinux&logoColor=5ebedb)
 ![tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
