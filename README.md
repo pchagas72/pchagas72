@@ -18,9 +18,13 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![C](https://img.shields.io/badge/C%20programming-303030?style=for-the-badge&logo=C&logoColor=white)
+![Go](https://img.shields.io/badge/Go-55AFFA?style=for-the-badge&logo=go&logoColor=white")
 
 ## Other tools I like
-![Go](https://img.shields.io/badge/Go-55AFFA?style=for-the-badge&logo=go&logoColor=white)
+
+
+
 ![KT](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=purplegradient)
 ![Pytorch](https://img.shields.io/badge/Pytorch-9900ff?style=for-the-badge&logo=pytorch&logoColor=ff6600)
 ![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
