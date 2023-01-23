@@ -20,7 +20,7 @@
 ![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![C](https://img.shields.io/badge/C%20programming-303030?style=for-the-badge&logo=C&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-55AFFA?style=for-the-badge&logo=go&logoColor=white)
-
+![React](https://img.shields.io/badge/ReactJS-0066cc?style=for-the-badge&logo=react&logoColor=white)
 ## Other tools I like
 
 
