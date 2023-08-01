@@ -4,7 +4,7 @@
 - 17 years old CS student from Brazil.
 - Linux lover and gentoo user.
 - Languages: English, portuguese and spanglish.
-- Trying to create a <a href='https://chaguw.neocities.org/'>website.</a>
+- Trying to create a <a href='[https://chaguw.neocities.org/](https://pchagas72.github.io/my-website/)'>website.</a>
 - Learning: French, Quantum Computing.
 
 <br>
