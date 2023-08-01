@@ -21,13 +21,13 @@
 ![C](https://img.shields.io/badge/C%20programming-303030?style=for-the-badge&logo=C&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-55AFFA?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/ReactJS-0066cc?style=for-the-badge&logo=react&logoColor=white)
+
 ## Other tools I like
-
-
-
-![KT](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=purplegradient)
 ![Pytorch](https://img.shields.io/badge/Pytorch-9900ff?style=for-the-badge&logo=pytorch&logoColor=ff6600)
 ![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
+## Tools I use but hate
+![KT](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=purplegradient)
 
 ## Software I use:
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
