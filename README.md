@@ -1,7 +1,7 @@
 ### Welcome to my github profile
 
 #### Whoami?
-- 17 years old CS student from Brazil.
+- 18 years old CS student from Brazil.
 - Linux lover and gentoo user.
 - Languages: English, portuguese and spanglish.
 - Learning: French, Quantum Computing.
@@ -20,6 +20,7 @@
 ![C](https://img.shields.io/badge/C%20programming-303030?style=for-the-badge&logo=C&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-55AFFA?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/ReactJS-0066cc?style=for-the-badge&logo=react&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%237E1AB6.svg?&style=for-the-badge&logo=qiskit&logoColor=white)
 
 ## Other tools I like
 ![Pytorch](https://img.shields.io/badge/Pytorch-9900ff?style=for-the-badge&logo=pytorch&logoColor=ff6600)
