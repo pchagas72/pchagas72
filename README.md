@@ -37,7 +37,7 @@
 ![tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 ## Learning:
-![qiskit](https://img.shields.io/badge/Qiskit-6100c2?style=for-the-badge&logo=qiskit&logoColor=white)
+- Vacation finally
 
 ## OS I like:
 ![gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
