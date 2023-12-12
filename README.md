@@ -37,7 +37,8 @@
 ![tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 ## Learning:
-- Vacation finally
+![lfs](https://img.shields.io/badge/Linux%20From%20Scratch-000000?style=for-the-badge&logo=linux&logoColor=white)
+- For now (dec 2023), I'm on a vacation improving on classical guitar and linux!
 
 ## OS I like:
 ![gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
