@@ -1,10 +1,10 @@
 ### Welcome to my github profile
 
 #### Whoami?
-- 18 years old CS student from Brazil.
-- Linux lover and gentoo user.
-- Languages: English, portuguese and spanglish.
-- Learning: French, Quantum Computing.
+- 18 years old engineering student from Brazil.
+- Linux and programming enthusiast
+- Languages: English, portuguese and learning french.
+- Current interests: Compilers, nix and machine learning.
 
 <br>
 
@@ -21,13 +21,11 @@
 ![Go](https://img.shields.io/badge/Go-55AFFA?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/ReactJS-0066cc?style=for-the-badge&logo=react&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%237E1AB6.svg?&style=for-the-badge&logo=qiskit&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-0047AB?style=for-the-badge&logo=arduino&logoColor=blue)
 
 ## Other tools I like
 ![Pytorch](https://img.shields.io/badge/Pytorch-9900ff?style=for-the-badge&logo=pytorch&logoColor=ff6600)
 ![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
-## Tools I use but hate
-![KT](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=purplegradient)
 
 ## Software I use:
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -37,8 +35,7 @@
 ![tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 ## Learning:
-![lfs](https://img.shields.io/badge/Linux%20From%20Scratch-000000?style=for-the-badge&logo=linux&logoColor=white)
-- For now (dec 2023), I'm on a vacation improving on classical guitar and linux!
+![nixos](https://img.shields.io/badge/nixOS-191970?style=for-the-badge&logo=nixos&logoColor=blue)
 
 ## OS I like:
 ![gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
