@@ -4,7 +4,7 @@
 - 18 years old engineering student from Brazil.
 - Linux and programming enthusiast
 - Languages: English, portuguese and learning french.
-- Current interests: Compilers, nix and machine learning.
+- Current interests: Chilling before semester begins.
 
 <br>
 
