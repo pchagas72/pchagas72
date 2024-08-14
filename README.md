@@ -5,6 +5,7 @@
 - Linux and programming enthusiast
 - Languages: English, portuguese and learning french.
 - Current interests: Chilling before semester begins.
+- [Checkout my website](https://personal-website-nine-murex.vercel.app/)
 
 <br>
 
