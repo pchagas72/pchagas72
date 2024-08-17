@@ -4,7 +4,7 @@
 - 18 years old engineering student from Brazil.
 - Linux and programming enthusiast
 - Languages: English, portuguese and learning french.
-- Current interests: Chilling before semester begins.
+- Current interests: Studying french, classical guitar and majoring computer engineering + systems for internet
 - [Checkout my website](https://personal-website-nine-murex.vercel.app/)
 
 <br>
