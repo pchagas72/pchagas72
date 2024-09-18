@@ -4,8 +4,8 @@
 - 18 years old engineering student from Brazil.
 - Linux and programming enthusiast
 - Languages: English, portuguese and learning french.
-- Current interests: Studying french, classical guitar and majoring computer engineering + systems for internet
-- [Checkout my website](https://personal-website-nine-murex.vercel.app/)
+- Current interests: French and greek, classical guitar and majoring computer engineering + systems for internet
+- [Checkout my website](https://pedrochagas.com)
 
 <br>
 
@@ -23,6 +23,7 @@
 ![React](https://img.shields.io/badge/ReactJS-0066cc?style=for-the-badge&logo=react&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%237E1AB6.svg?&style=for-the-badge&logo=qiskit&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-0047AB?style=for-the-badge&logo=arduino&logoColor=blue)
+![Arduino](https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=black)
 
 ## Other tools I like
 ![Pytorch](https://img.shields.io/badge/Pytorch-9900ff?style=for-the-badge&logo=pytorch&logoColor=ff6600)
@@ -38,7 +39,7 @@
 ## Learning:
 ![nixos](https://img.shields.io/badge/nixOS-191970?style=for-the-badge&logo=nixos&logoColor=blue)
 
-## OS I like:
+## OS I use:
 ![gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![arch](https://img.shields.io/badge/Arch-064d87?style=for-the-badge&logo=archlinux&logoColor=5ebedb)
 ![tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
