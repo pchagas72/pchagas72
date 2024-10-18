@@ -6,6 +6,7 @@
 - Languages: English, portuguese and learning french.
 - Current interests: French and greek, classical guitar and majoring computer engineering + systems for internet
 - [Checkout my website](https://pedrochagas.com)
+- In vacation!
 
 <br>
 
