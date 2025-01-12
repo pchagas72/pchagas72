@@ -1,12 +1,12 @@
 ### Welcome to my github profile
 
 #### Whoami?
-- 18 years old engineering student from Brazil.
+- 19 years old engineering student from Brazil.
 - Linux and programming enthusiast
-- Languages: English, portuguese and learning french.
-- Current interests: French and greek, classical guitar and majoring computer engineering + systems for internet
+- Languages: English, portuguese.
+- Current learning: French, japanese.
+- Majoring classical guitar and electronics engineering
 - [Checkout my website](https://pedrochagas.com)
-- In vacation!
 
 <br>
 
