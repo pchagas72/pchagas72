@@ -4,7 +4,7 @@
 - 19 years old engineering student from Brazil.
 - Linux and programming enthusiast
 - Languages: English, portuguese.
-- Current learning: InfoSec
+- Current learning: InfoSec, baja engineering
 - Majoring electronics engineering
 - [Checkout my website](https://pedrochagas.com)
 
