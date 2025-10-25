@@ -1,12 +1,12 @@
-### Welcome to my github profile
+### Welcome
 
-#### Whoami?
-- 19 years old engineering student from Brazil.
-- Linux and programming enthusiast
+#### Whoami
+- 20 years old engineering student from Brazil.
+- I like cars, low-level programming...
 - Languages: English, portuguese.
-- Current learning: ECU-programming, automotive engineering
-- Majoring electronics engineering
-- [Checkout my website](https://pedrochagas.com)
+- Current learning: automotive engineering
+- Majoring electronic engineering
+- [My website](https://pedrochagas.com)
 
 <br>
 
