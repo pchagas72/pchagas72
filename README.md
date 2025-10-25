@@ -5,7 +5,7 @@
 - I like cars, low-level programming...
 - Languages: English, portuguese.
 - Current learning: automotive engineering
-- Majoring electronic engineering
+- Majoring electronics engineering
 - [My website](https://pedrochagas.com)
 
 <br>
